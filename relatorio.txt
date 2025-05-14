@@ -1,0 +1,310 @@
+Listando conteúdo do diretório: C:/Users/public/Documents/MACAW/GOOGLE/6.1
+
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-201.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-201.zip
+Erro ao ler arquivo ZIP 88161552-20250404-201.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-201.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-202.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-202.zip
+Erro ao ler arquivo ZIP 88161552-20250404-202.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-202.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-203.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-203.zip
+Erro ao ler arquivo ZIP 88161552-20250404-203.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-203.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-205.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-205.zip
+Erro ao ler arquivo ZIP 88161552-20250404-205.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-205.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-206.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-206.zip
+Erro ao ler arquivo ZIP 88161552-20250404-206.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-206.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-207.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-207.zip
+Erro ao ler arquivo ZIP 88161552-20250404-207.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-207.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-208.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-208.zip
+Erro ao ler arquivo ZIP 88161552-20250404-208.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-208.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-209.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-209.zip
+Erro ao ler arquivo ZIP 88161552-20250404-209.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-209.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-210.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-210.zip
+Erro ao ler arquivo ZIP 88161552-20250404-210.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-210.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-211.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-211.zip
+Erro ao ler arquivo ZIP 88161552-20250404-211.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-211.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-212.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-212.zip
+Erro ao ler arquivo ZIP 88161552-20250404-212.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-212.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-213.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-213.zip
+Erro ao ler arquivo ZIP 88161552-20250404-213.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-213.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-214.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-214.zip
+Erro ao ler arquivo ZIP 88161552-20250404-214.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-214.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-215.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-215.zip
+Erro ao ler arquivo ZIP 88161552-20250404-215.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-215.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-216.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-216.zip
+Erro ao ler arquivo ZIP 88161552-20250404-216.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-216.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-217.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-217.zip
+Erro ao ler arquivo ZIP 88161552-20250404-217.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-217.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-218.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-218.zip
+Erro ao ler arquivo ZIP 88161552-20250404-218.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-218.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-219.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-219.zip
+Erro ao ler arquivo ZIP 88161552-20250404-219.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-219.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-220.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-220.zip
+Erro ao ler arquivo ZIP 88161552-20250404-220.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-220.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-221.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-221.zip
+Erro ao ler arquivo ZIP 88161552-20250404-221.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-221.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-222.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-222.zip
+Erro ao ler arquivo ZIP 88161552-20250404-222.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-222.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-223.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-223.zip
+Erro ao ler arquivo ZIP 88161552-20250404-223.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-223.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-224.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-224.zip
+Erro ao ler arquivo ZIP 88161552-20250404-224.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-224.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-225.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-225.zip
+Erro ao ler arquivo ZIP 88161552-20250404-225.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-225.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-226.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-226.zip
+Erro ao ler arquivo ZIP 88161552-20250404-226.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-226.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-227.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-227.zip
+Erro ao ler arquivo ZIP 88161552-20250404-227.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-227.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-228.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-228.zip
+Erro ao ler arquivo ZIP 88161552-20250404-228.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-228.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-229.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-229.zip
+Erro ao ler arquivo ZIP 88161552-20250404-229.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-229.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-230.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-230.zip
+Erro ao ler arquivo ZIP 88161552-20250404-230.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-230.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-231.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-231.zip
+Erro ao ler arquivo ZIP 88161552-20250404-231.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-231.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-235.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-235.zip
+Erro ao ler arquivo ZIP 88161552-20250404-235.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-235.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-236.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-236.zip
+Erro ao ler arquivo ZIP 88161552-20250404-236.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-236.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-237.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-237.zip
+Erro ao ler arquivo ZIP 88161552-20250404-237.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-237.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-238.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-238.zip
+Erro ao ler arquivo ZIP 88161552-20250404-238.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-238.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-239.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-239.zip
+Erro ao ler arquivo ZIP 88161552-20250404-239.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-239.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-240.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-240.zip
+Erro ao ler arquivo ZIP 88161552-20250404-240.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-240.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-241.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-241.zip
+Erro ao ler arquivo ZIP 88161552-20250404-241.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-241.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-242.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-242.zip
+Erro ao ler arquivo ZIP 88161552-20250404-242.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-242.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-243.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-243.zip
+Erro ao ler arquivo ZIP 88161552-20250404-243.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-243.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-245.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-245.zip
+Erro ao ler arquivo ZIP 88161552-20250404-245.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-245.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-248.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-248.zip
+Erro ao ler arquivo ZIP 88161552-20250404-248.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-248.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-249.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-249.zip
+Erro ao ler arquivo ZIP 88161552-20250404-249.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-249.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-250.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-250.zip
+Erro ao ler arquivo ZIP 88161552-20250404-250.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-250.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-251.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-251.zip
+Erro ao ler arquivo ZIP 88161552-20250404-251.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-251.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-252.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-252.zip
+Erro ao ler arquivo ZIP 88161552-20250404-252.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-252.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-253.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-253.zip
+Erro ao ler arquivo ZIP 88161552-20250404-253.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-253.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-254.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-254.zip
+Erro ao ler arquivo ZIP 88161552-20250404-254.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-254.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-255.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-255.zip
+Erro ao ler arquivo ZIP 88161552-20250404-255.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-255.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-256.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-256.zip
+Erro ao ler arquivo ZIP 88161552-20250404-256.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-256.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-257.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-257.zip
+Erro ao ler arquivo ZIP 88161552-20250404-257.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-257.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-258.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-258.zip
+Erro ao ler arquivo ZIP 88161552-20250404-258.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-258.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-259.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-259.zip
+Erro ao ler arquivo ZIP 88161552-20250404-259.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-259.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-260.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-260.zip
+Erro ao ler arquivo ZIP 88161552-20250404-260.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-260.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-261.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-261.zip
+Erro ao ler arquivo ZIP 88161552-20250404-261.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-261.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-262.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-262.zip
+Erro ao ler arquivo ZIP 88161552-20250404-262.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-262.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-263.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-263.zip
+Erro ao ler arquivo ZIP 88161552-20250404-263.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-263.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-264.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-264.zip
+Erro ao ler arquivo ZIP 88161552-20250404-264.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-264.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-265.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-265.zip
+Erro ao ler arquivo ZIP 88161552-20250404-265.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-265.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-266.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-266.zip
+Erro ao ler arquivo ZIP 88161552-20250404-266.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-266.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-267.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-267.zip
+Erro ao ler arquivo ZIP 88161552-20250404-267.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-267.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-268.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-268.zip
+Erro ao ler arquivo ZIP 88161552-20250404-268.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-268.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-269.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-269.zip
+Erro ao ler arquivo ZIP 88161552-20250404-269.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-269.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-270.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-270.zip
+Erro ao ler arquivo ZIP 88161552-20250404-270.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-270.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-271.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-271.zip
+Erro ao ler arquivo ZIP 88161552-20250404-271.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-271.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-272.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-272.zip
+Erro ao ler arquivo ZIP 88161552-20250404-272.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-272.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-273.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-273.zip
+Erro ao ler arquivo ZIP 88161552-20250404-273.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-273.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-274.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-274.zip
+Erro ao ler arquivo ZIP 88161552-20250404-274.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-274.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-275.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-275.zip
+Erro ao ler arquivo ZIP 88161552-20250404-275.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-275.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-276.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-276.zip
+Erro ao ler arquivo ZIP 88161552-20250404-276.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-276.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-277.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-277.zip
+Erro ao ler arquivo ZIP 88161552-20250404-277.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-277.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-278.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-278.zip
+Erro ao ler arquivo ZIP 88161552-20250404-278.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-278.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-279.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-279.zip
+Erro ao ler arquivo ZIP 88161552-20250404-279.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-279.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-280.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-280.zip
+Erro ao ler arquivo ZIP 88161552-20250404-280.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-280.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-281.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-281.zip
+Erro ao ler arquivo ZIP 88161552-20250404-281.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-281.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-282.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-282.zip
+Erro ao ler arquivo ZIP 88161552-20250404-282.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-282.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-283.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-283.zip
+Erro ao ler arquivo ZIP 88161552-20250404-283.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-283.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-284.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-284.zip
+Erro ao ler arquivo ZIP 88161552-20250404-284.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-284.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-285.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-285.zip
+Erro ao ler arquivo ZIP 88161552-20250404-285.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-285.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-286.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-286.zip
+Erro ao ler arquivo ZIP 88161552-20250404-286.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-286.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-287.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-287.zip
+Erro ao ler arquivo ZIP 88161552-20250404-287.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-287.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-288.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-288.zip
+Erro ao ler arquivo ZIP 88161552-20250404-288.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-288.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-289.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-289.zip
+Erro ao ler arquivo ZIP 88161552-20250404-289.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-289.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-290.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-290.zip
+Erro ao ler arquivo ZIP 88161552-20250404-290.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-290.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-291.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-291.zip
+Erro ao ler arquivo ZIP 88161552-20250404-291.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-291.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-292.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-292.zip
+Erro ao ler arquivo ZIP 88161552-20250404-292.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-292.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-293.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-293.zip
+Erro ao ler arquivo ZIP 88161552-20250404-293.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-293.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-294.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-294.zip
+Erro ao ler arquivo ZIP 88161552-20250404-294.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-294.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-295.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-295.zip
+Erro ao ler arquivo ZIP 88161552-20250404-295.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-295.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-296.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-296.zip
+Erro ao ler arquivo ZIP 88161552-20250404-296.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-296.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-297.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-297.zip
+Erro ao ler arquivo ZIP 88161552-20250404-297.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-297.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-298.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-298.zip
+Erro ao ler arquivo ZIP 88161552-20250404-298.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-298.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-299.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-299.zip
+Erro ao ler arquivo ZIP 88161552-20250404-299.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-299.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-300.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-300.zip
+Erro ao ler arquivo ZIP 88161552-20250404-300.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-300.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-301.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-301.zip
+Erro ao ler arquivo ZIP 88161552-20250404-301.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-301.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-302.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-302.zip
+Erro ao ler arquivo ZIP 88161552-20250404-302.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-302.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-303.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-303.zip
+Erro ao ler arquivo ZIP 88161552-20250404-303.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-303.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-304.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-304.zip
+Erro ao ler arquivo ZIP 88161552-20250404-304.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-304.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-305.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-305.zip
+Erro ao ler arquivo ZIP 88161552-20250404-305.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-305.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-306.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-306.zip
+Erro ao ler arquivo ZIP 88161552-20250404-306.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-306.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-307.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-307.zip
+Erro ao ler arquivo ZIP 88161552-20250404-307.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-307.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-308.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-308.zip
+Erro ao ler arquivo ZIP 88161552-20250404-308.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-308.zip'
+Arquivo ZIP com ZIPs internos encontrado: 88161552-20250404-309.zip
+Arquivo descompactado e renomeado para: _88161552-20250404-309.zip
+Erro ao ler arquivo ZIP 88161552-20250404-309.zip: [Errno 2] No such file or directory: 'C:\\Users\\public\\Documents\\MACAW\\GOOGLE\\6.1\\88161552-20250404-309.zip'
+Diretório: descompactados
+Diretório: helper
