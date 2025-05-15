@@ -3,6 +3,8 @@ import zipfile
 import re
 from pathlib import Path
 import sys
+import csv
+from datetime import datetime
 
 def extract_info_from_html(html_content):
     # Padrões para encontrar IMEI e Users
@@ -41,10 +43,10 @@ def process_zip_files(directory_path):
                             
                             # Adicionar resultados
                             results.append({
-                                'arquivo_zip': zip_file.name,
-                                'arquivo_html': html_file,
-                                'imei': imei,
-                                'users': users
+                                'Users': users,
+                                'IMEI': imei,
+                                'Arquivo HTML': html_file,
+                                'Arquivo ZIP': zip_file.name
                             })
                     except Exception as e:
                         print(f"Erro ao processar {html_file} em {zip_file.name}: {str(e)}")
@@ -53,6 +55,35 @@ def process_zip_files(directory_path):
             print(f"Erro ao abrir {zip_file.name}: {str(e)}")
     
     return results
+
+def save_to_csv(results, directory_path):
+    # Criar nome do arquivo com timestamp
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    csv_filename = f"resultados_{timestamp}.csv"
+    csv_path = os.path.join(directory_path, csv_filename)
+    
+    # Definir os campos do CSV
+    fieldnames = ['Users', 'IMEI', 'Arquivo HTML', 'Arquivo ZIP']
+    
+    # Escrever no arquivo CSV
+    with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
+        writer.writeheader()
+        writer.writerows(results)
+    
+    return csv_path
+
+def display_results(results):
+    print("\nResultados encontrados:")
+    print("-" * 80)
+    for result in results:
+        print(f"\nArquivo ZIP: {result['Arquivo ZIP']}")
+        print(f"Arquivo HTML: {result['Arquivo HTML']}")
+        if result['IMEI'] != "Não encontrado":
+            print(f"IMEI: {result['IMEI']}")
+        if result['Users'] != "Não encontrado":
+            print(f"Users: {result['Users']}")
+        print("-" * 80)
 
 def main():
     # Verificar se o caminho do diretório foi fornecido como argumento
@@ -72,15 +103,20 @@ def main():
     # Processar arquivos
     results = process_zip_files(directory)
     
-    # Exibir resultados
-    print("\nResultados encontrados:")
-    print("-" * 80)
-    for result in results:
-        print(f"\nArquivo ZIP: {result['arquivo_zip']}")
-        print(f"Arquivo HTML: {result['arquivo_html']}")
-        print(f"IMEI: {result['imei']}")
-        print(f"Users: {result['users']}")
-        print("-" * 80)
+    if not results:
+        print("Nenhum resultado encontrado!")
+        return
+    
+    # Exibir resultados na tela
+    display_results(results)
+    
+    # Salvar resultados em CSV
+    csv_path = save_to_csv(results, directory)
+    
+    # Exibir mensagem de conclusão
+    print(f"\nProcessamento concluído!")
+    print(f"Total de registros processados: {len(results)}")
+    print(f"Arquivo CSV gerado: {csv_path}")
 
 if __name__ == "__main__":
     main() 
