@@ -1,13 +1,13 @@
 Executar a descompactação em 1º nível dos arquivos baixados do Google LERS
 
 ```bash
-python unzip_dir.py C:/Users/public/Documents/MACAW/GOOGLE/6.1
+python unzip_dir.py C:/Users/Public/Documents/MISTER/GOOGLE/2.1
 ```
 
 Executar a extração da bilhetagem dos arquivos .zip
 
 ```bash
-python extract_info.py C:/Users/public/Documents/MACAW/GOOGLE/6.1/descompactados
+python extract_info.py C:/Users/Public/Documents/MISTER/GOOGLE/2.1/descompactados
 ```
 
 comando para executar com o Powershell para criar uma nova pasta vazia para o output do IPED
@@ -29,5 +29,8 @@ Write-Host "Pastas criadas com sucesso!"
 Comando do IPD
 
 ```bash
-C:\IPED-4.2.0_and_IPEDIAR\iped-4.2.0\iped.exe -d "C:\Users\Public\Documents\MACAW\GOOGLE\6.2\emaila@gmail.com" -o "C:\Users\Public\Documents\MACAW\GOOGLE\6.2\_emaila@gmail.com"
+C:\IPED-4.2.0_and_IPEDIAR\iped-4.2.0\iped.exe -d `
+"c:\Users\Public\Documents\MACAW\GOOGLE\6.2\emaila@gmail.com" `
+-o `
+"c:\Users\Public\Documents\MACAW\GOOGLE\6.2\_emaila@gmail.com"
 ```

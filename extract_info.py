@@ -67,7 +67,7 @@ def save_to_csv(results, directory_path):
     
     # Escrever no arquivo CSV
     with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, quoting=csv.QUOTE_ALL, delimiter=';')
         writer.writeheader()
         writer.writerows(results)
     
