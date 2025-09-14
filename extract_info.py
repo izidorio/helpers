@@ -5,6 +5,7 @@ from pathlib import Path
 import sys
 import csv
 from datetime import datetime
+# Remover: import pandas as pd
 
 def extract_info_from_html(html_content):
     # Padrões para encontrar IMEI e Users
@@ -69,7 +70,12 @@ def save_to_csv(results, directory_path):
     with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, quoting=csv.QUOTE_ALL, delimiter=';')
         writer.writeheader()
-        writer.writerows(results)
+        
+        for result in results:
+            # Adicionar tab para forçar Excel a tratar como texto (sem aparecer na cópia)
+            if result['IMEI'] != "Não encontrado":
+                result['IMEI'] = f"\t{result['IMEI']}"
+            writer.writerow(result)
     
     return csv_path
 
