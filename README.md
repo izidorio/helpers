@@ -1,7 +1,7 @@
 Executar a descompactação em 1º nível dos arquivos baixados do Google LERS
 
 ```bash
-python unzip_dir.py C:/Users/Public/Documents/MISTER/GOOGLE/2.1
+python unzip_dir.py C:/Users/Public/Documents/MISTER/GOOGLE/2.2
 ```
 
 Executar a extração da bilhetagem dos arquivos .zip
@@ -12,14 +12,14 @@ python extract_info.py C:/Users/Public/Documents/MISTER/GOOGLE/2.1/descompactado
 
 comando para executar com o Powershell para criar uma nova pasta vazia para o output do IPED
 
-```bash
+```powershell
 $list = @(
     "c:\Users\Public\Documents\MACAW\GOOGLE\6.2\emaila@gmail.com"
     "c:\Users\Public\Documents\MACAW\GOOGLE\6.2\emailb@gmail.com"
 )
 
 foreach ($folder in $list) {
-    $newFolder = "$($folder -replace '(?<=6.2\\)', '_')"
+    $newFolder = "C:\Users\Public\Documents\MISTER\GOOGLE\2.2\descompactados\_$folder"
     New-Item -ItemType Directory -Path $newFolder -Force
 }
 
